@@ -1,6 +1,10 @@
 # CardPuter-ADV-Doom
 
+![Banner](banner.png)
+
 Doom running on the **M5Stack CardPuter ADV** (ESP32-S3, 8MB flash, TCA8418 keyboard, ES8311 audio).
+
+![Demo](demo.png)
 
 This repo provides the working pre-built binary and correct flashing instructions. The source code is from [zspuspoki/CardPuterAdvancedDoom](https://github.com/zspuspoki/CardPuterAdvancedDoom) (MIT License).
 
