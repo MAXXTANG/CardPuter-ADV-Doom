@@ -67,13 +67,13 @@ Replace the port with your actual device port (`ls /dev/cu.*` on macOS, Device M
 | `;` | Move forward |
 | `.` | Move backward |
 | `l` | Turn right |
-| `'` | Turn left (strafe) |
-| `opt` | Strafe |
-| `ctrl` | Fire |
-| `alt` | Open door |
-| `fn` | Run |
+| `'` | Turn left |
+| `opt` | Fire |
+| `ctrl` | Strafe left |
+| `alt` | Strafe right |
+| `fn` | Use / open |
 | `tab` | Map |
-| `1–7` | Weapon select |
+| `1`–`7` | Weapon select |
 
 ---
 
